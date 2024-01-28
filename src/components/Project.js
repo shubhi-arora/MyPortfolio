@@ -13,7 +13,7 @@ export default function Project() {
                 target="_blank"
               >
                 <img
-                  src="/images/tour.png"
+                  src="./images/tour.png"
                   className="card-img-top project-card-img"
                   height="180rem"
                   alt="Mathura Tourism"
@@ -66,7 +66,7 @@ export default function Project() {
                 target="_blank"
               >
                 <img
-                  src="/images/recg.png"
+                  src="./images/recg.png"
                   className="card-img-top project-card-img"
                   height="180rem"
                   alt="Recognito"
@@ -118,7 +118,7 @@ export default function Project() {
                 target="_blank"
               >
                 <img
-                  src="/images/company.png"
+                  src="./images/company.png"
                   className="card-img-top project-card-img"
                   height="180rem"
                   alt="Recognito"

@@ -23,7 +23,7 @@ export default function About() {
         <div className="row">
           <div className="col">
             <img
-              src="/images/img1.jpg"
+              src="./images/img1.jpg"
               className="w-100 shadow-1-strong rounded mb-4"
               max-width="100%"
               height="100%"
@@ -32,14 +32,14 @@ export default function About() {
           </div>
           <div className="col">
             <img
-              src="/images/img5.jpg"
+              src="./images/img5.jpg"
               className="w-100 shadow-1-strong rounded mb-4"
               max-width="100%"
               height="47%"
               alt="Shubhi"
             />
             <img
-              src="/images/img4.jpg"
+              src="./images/img4.jpg"
               className="w-100 shadow-1-strong rounded mb-4"
               max-width="100%"
               height="47%"
@@ -48,7 +48,7 @@ export default function About() {
           </div>
           <div className="col col-right">
             <img
-              src="/images/img2.jpg"
+              src="./images/img2.jpg"
               className="w-100 shadow-1-strong rounded mb-4"
               max-width="100%"
               height="100%"
